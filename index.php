@@ -1,5 +1,5 @@
 <?php
 
-include_once("indexCal.html");
+include_once("index.html");
 
 ?>
